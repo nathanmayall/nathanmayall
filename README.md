@@ -24,4 +24,9 @@ For the technologies and languages I use, please see below.
 
 ---
 
-[![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanmayall&show_icons=true&theme=tokyonight)](https://nathanmayall.com)
+<a href="https://nathanmayall.com"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanmayall&show_icons=true&theme=tokyonight&hide=stars" />
+</a>
+<a href="https://nathanmayall.com"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmayall&layout=compact&theme=tokyonight" />
+</a> 
