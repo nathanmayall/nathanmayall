@@ -25,8 +25,8 @@ For the technologies and languages I use, please see below.
 ---
 
 <a href="https://nathanmayall.com"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanmayall&show_icons=true&theme=tokyonight&hide=stars" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanmayall&show_icons=true&theme=tokyonight&hide=stars&count_private=true" />
 </a>
 <a href="https://nathanmayall.com"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmayall&layout=compact&theme=tokyonight" />
-</a> 
+</a>
