@@ -1,6 +1,7 @@
 ### Hi there, I'm Nathan Mayall 👋
 
 - 🔭 I’m a full stack Junior Software Engineer, graduated from Manchester Codes in September 2021.
+
 I have a few showcase projects already, some were done by myself and others were a collaboration. *Please check them out!* 
 
 For the technologies and languages I use, please see below.
