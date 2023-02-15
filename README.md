@@ -21,6 +21,7 @@ For the technologies and languages I use, please see below.
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express Logo" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu Logo" height="50" width="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="WebPack Logo" height="50" width="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust Logo" height="50" width="50" />
 
 ---
 
